@@ -1,0 +1,13 @@
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/UnityEngine.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/UnityEditor.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/Mono.Cecil.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/Unity.DataContract.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/bern.shesh/bernshesh/bernshesh/Temp/bin/Debug/Mono.Cecil.Mdb.dll

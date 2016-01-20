@@ -30,7 +30,7 @@ public class VariablesAndFunctions : MonoBehaviour
 
 			/*this right here is the Function, we have the type as int, the name is MultiplyByTwo because
 				that is what the function is going To do. In parenthesis We have the parameter type, int,
-//				and the name Of that parameter, number, so We Can put it into our return*/
+				and the name Of that parameter, number, so We Can put it into our return*/
 			
 	{
 		int ret;
