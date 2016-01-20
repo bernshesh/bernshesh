@@ -38,10 +38,10 @@ public class VariablesAndFunctions : MonoBehaviour
 		return ret;
 
 			/*down here is where We Are returning everything So that it shows in our game. as We are
-				returning it We want it To multiply by two. So, the type is int, name is ret. We put
-				that ret is number - the name Of our parameter - times two. We then return ret, putting it
-				into our game. So, in summary, we take the value of the variable myInt and put that into
-				our function. We then made the functions parameters make whatever variable we plug into
-				our function return it multiplied by two.*/
+				returning it We want it To multiply by two. So, the type is int, name is ret, short 
+				for return. We put that ret is number - the name Of our parameter - times two. We then 
+				return ret, putting it into our game. So, in summary, we take the value of the variable
+				myInt and put that into our function. We then made the functions parameters make whatever
+				variable we plug into our function return it multiplied by two.*/
 	}
 }
